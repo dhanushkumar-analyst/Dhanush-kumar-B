@@ -29,11 +29,14 @@ This repository contains a Power BI project that analyzes key trends and insight
 #### Design visualizations for:
 #### Summary:
 - **Total Waiting List Commparison:** Commparison between Latest Month Waiting List and Previous Latest Month Waiting List
+  
 ![WhatsApp Image 2024-11-18 at 6 29 00 PM](https://github.com/user-attachments/assets/9ab0d5d2-41de-4ff7-a33c-80459bf9c397)
 - **Case Type Spilt:** There are three types of case spilt.
+  
 ![WhatsApp Image 2024-11-18 at 6 29 02 PM](https://github.com/user-attachments/assets/b5f4a69b-7ed0-42d5-beeb-045b0264a1a5)
 
 - **Key Indicators:** It's showing a Average and Median patients waiting lists
+  
 ![WhatsApp Image 2024-11-18 at 6 29 03 PM](https://github.com/user-attachments/assets/ac61a471-09b1-4db5-a45d-fb55d2f6470f)
 
 - **Time band vs. Age Profile:** The chart uses a stacked bar format to display the average number of patients on the waitlist across different Time Bands (waiting durations) and segmented by 
@@ -89,7 +92,8 @@ This repository contains a Power BI project that analyzes key trends and insight
     - Age_Profile: Filters data by age groups. In this instance, the selected profile is 0-15 age categorie to  16–64 age categorie, likely representing working-age adults.
 
     - Time_Bands: This filter categorizes data by time intervals, such as the duration of cases or treatments. The selection here is 0-3 Months to 18+ Months, which might reflect cases lasting over 18 months.
-    ![WhatsApp Image 2024-11-18 at 9 22 20 PM](https://github.com/user-attachments/assets/36730220-ef46-4188-a732-1d8ae7211186)
+  
+![WhatsApp Image 2024-11-18 at 9 22 20 PM](https://github.com/user-attachments/assets/36730220-ef46-4188-a732-1d8ae7211186)
 
 - **Detial Drid View:**
 #### DrilDown:
@@ -112,7 +116,7 @@ This repository contains a Power BI project that analyzes key trends and insight
 
     - Child Care, Digestive, and Hormonal issues have similar waitlists, each around 330,000-350,000.
     -  Specialized categories like Blood (270,000), Dental (220,000), and Immune System (157,000) show moderate levels of patient demand.
-
+   
 ## 📚Technologies Used
 - **Tool:** Power BI Desktop
 - **Data Sources:** CSV files and public healthcare datasets
