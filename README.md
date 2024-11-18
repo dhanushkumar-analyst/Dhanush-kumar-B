@@ -117,6 +117,8 @@ This repository contains a Power BI project that analyzes key trends and insight
     - Child Care, Digestive, and Hormonal issues have similar waitlists, each around 330,000-350,000.
     -  Specialized categories like Blood (270,000), Dental (220,000), and Immune System (157,000) show moderate levels of patient demand.
    
+![WhatsApp Image 2024-11-18 at 6 29 04 PM](https://github.com/user-attachments/assets/05d442f3-22c1-40f7-8419-1e3a590d483d)
+ 
 ## 📚Technologies Used
 - **Tool:** Power BI Desktop
 - **Data Sources:** CSV files and public healthcare datasets
